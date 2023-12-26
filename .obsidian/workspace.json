@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cf836ff5d340767",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "525ed722aa35c2b4",
+            "id": "c5bdf419c0352977",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,19 +20,19 @@
             }
           },
           {
-            "id": "c5bdf419c0352977",
+            "id": "65e97283d560a4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effect of random UUID.md",
+                "file": "Structural Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effect of random UUID.md",
+                "file": "Structural Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effect of random UUID.md",
+                "file": "Structural Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effect of random UUID.md"
+                "file": "Structural Design Patterns.md"
               }
             }
           }
@@ -167,11 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5bdf419c0352977",
+  "active": "65e97283d560a4d2",
   "lastOpenFiles": [
     "Idempotency of a POST api.md",
-    "Effect of random UUID.md",
-    "images",
-    "images/Pasted image 20231225110205.png"
+    "Structural Design Patterns.md",
+    "pages/contents.md",
+    "logseq/bak/Structural Design Patterns/2023-12-26T11_45_37.315Z.Desktop.md",
+    "logseq/bak/Structural Design Patterns/2023-12-26T11_42_28.190Z.Desktop.md",
+    "logseq/bak/Structural Design Patterns",
+    "logseq/bak/PUSH pattern/2023-12-26T11_41_44.308Z.Desktop.md",
+    "logseq/bak/PUSH pattern",
+    "logseq/bak",
+    "PUSH pattern.md",
+    "Proxy Server.md",
+    "Load Balancer.md",
+    "images/Pasted image 20231226114824.png",
+    "images/Pasted image 20231226110854.png",
+    "images/Pasted image 20231226110835.png",
+    "images/Pasted image 20231226110053.png",
+    "images/Pasted image 20231226091959.png",
+    "Token Bucket Algorithm.md",
+    "Rate Limiter.md",
+    "MongoDb/populate_db.py",
+    "MongoDb",
+    "images/Pasted image 20231225190316.png",
+    "images/Pasted image 20231225185814.png",
+    "2023-12-25.md",
+    "images/Pasted image 20231225152807.png",
+    "images/Pasted image 20231225151734.png",
+    "images/Pasted image 20231225151205.png",
+    "images"
   ]
 }
