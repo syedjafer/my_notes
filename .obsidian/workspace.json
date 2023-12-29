@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f83ca2476d8a55",
+        "id": "c89871f310aa822d",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bdf419c0352977",
+            "id": "606c2cdd0fc2eee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idempotency of a POST api.md",
+                "file": "DesignPatterns/Structural/Decorator Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "65e97283d560a4d2",
+            "id": "76ffd38d511fae44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structural Design Patterns.md",
+                "file": "DesignPatterns/Structural/Proxy Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97aab47cdefd8f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DesignPatterns/Structural/Facade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural Design Patterns.md",
+                "file": "DesignPatterns/Structural/Decorator Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structural Design Patterns.md",
+                "file": "DesignPatterns/Structural/Decorator Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structural Design Patterns.md"
+                "file": "DesignPatterns/Structural/Decorator Pattern.md"
               }
             }
           }
@@ -159,35 +170,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65e97283d560a4d2",
+  "active": "606c2cdd0fc2eee8",
   "lastOpenFiles": [
+    "DesignPatterns/Structural/Facade.md",
+    "DesignPatterns/Structural/Proxy Pattern.md",
+    "DesignPatterns/Structural/Decorator Pattern.md",
+    "images/Pasted image 20231228124032.png",
+    "DesignPatterns/Structural/Structural Design Patterns.md",
+    "images/Pasted image 20231228111239.png",
+    "DesignPatterns/Structural/Template.md",
+    "DesignPatterns/Structural/Composite.md",
+    "images/Pasted image 20231226091959.png",
+    "images/Pasted image 20231225190316.png",
+    "images/Pasted image 20231225151734.png",
+    "images/Pasted image 20231225151205.png",
+    "images/Pasted image 20231225110205.png",
+    "images/Pasted image 20231225185814.png",
+    "images/Pasted image 20231226110835.png",
+    "images/Pasted image 20231227190532.png",
+    "DesignPatterns/Structural/code/pizza_class_decorator.py",
+    "DesignPatterns/Structural/code/functional_decorator_stacking.py",
+    "DesignPatterns/Structural/code/class_decorator.py",
+    "DesignPatterns/Structural/code/functional_decorator_with_param_to_decorator.py",
+    "DesignPatterns/Structural/code/functional_decorator_with_param.py",
+    "Decorator.md",
+    "SOLID/Open Closed Principle.md",
+    "SOLID/Single Responsibility Principle.md",
+    "SOLID",
+    "DesignPatterns/Structural/Adapter.md",
+    "UML/Class Diagram.md",
+    "Computer Networking/Computer Network.md",
+    "UML/uml.drawio",
+    "UML",
+    "DesignPatterns/Structural/code/functional_decorators.py",
+    "DesignPatterns/Structural/code/decorator.py",
     "Idempotency of a POST api.md",
-    "Structural Design Patterns.md",
+    "Untitled.canvas",
+    "Token Bucket Algorithm.md",
     "pages/contents.md",
     "logseq/bak/Structural Design Patterns/2023-12-26T11_45_37.315Z.Desktop.md",
     "logseq/bak/Structural Design Patterns/2023-12-26T11_42_28.190Z.Desktop.md",
-    "logseq/bak/Structural Design Patterns",
     "logseq/bak/PUSH pattern/2023-12-26T11_41_44.308Z.Desktop.md",
-    "logseq/bak/PUSH pattern",
-    "logseq/bak",
     "PUSH pattern.md",
     "Proxy Server.md",
     "Load Balancer.md",
-    "images/Pasted image 20231226114824.png",
-    "images/Pasted image 20231226110854.png",
-    "images/Pasted image 20231226110835.png",
-    "images/Pasted image 20231226110053.png",
-    "images/Pasted image 20231226091959.png",
-    "Token Bucket Algorithm.md",
     "Rate Limiter.md",
-    "MongoDb/populate_db.py",
-    "MongoDb",
-    "images/Pasted image 20231225190316.png",
-    "images/Pasted image 20231225185814.png",
-    "2023-12-25.md",
-    "images/Pasted image 20231225152807.png",
-    "images/Pasted image 20231225151734.png",
-    "images/Pasted image 20231225151205.png",
-    "images"
+    "2023-12-25.md"
   ]
 }

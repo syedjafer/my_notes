@@ -9,7 +9,9 @@ Types:
 6. Facade
 7. Flyweight
 
-**Decorator Pattern**
+[[Decorator Pattern]]
+
+
 This helps to add more functionality to existing object, without changing its structure. 
 ![[Pasted image 20231226091959.png]]
 Here we have the BasePizza class , which costs about 200 rs. Now if we want to add cheese or mushroom we can acheive the same using ToppingDecorator class
@@ -38,3 +40,16 @@ This helps in scenarios where we have OBJECT inside OBJECT (tree like structure)
 Bridge Pattern
 
 Facade Pattern: Hides the complexity. 
+
+Flyweight Pattern:
+
+This pattern helps to reduce memory usage by sharing data among multiple objects. 
+
+Issue: lets say memory is 21GB. 
+
+- Intrinsic data - remain same once defined value.
+- Extrinsic data - differs from one object to another.
+
+From the object remove all the extrinsic data and keep only the intrinsic data. 
+
+
