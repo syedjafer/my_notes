@@ -9,7 +9,7 @@ def time_it(func):
     return result
   return wrapper
 
-@time_it
+# @time_it
 def some_op():
   print('Starting op')
   time.sleep(1)
@@ -18,5 +18,5 @@ def some_op():
 
 if __name__ == '__main__':
   # some_op()
-  # time_it(some_op)()
-  some_op()
+  time_it(some_op)()
+  # some_op()

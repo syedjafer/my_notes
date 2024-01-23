@@ -10,15 +10,15 @@ def double(func):
         return result * 2
     return wrapper
 
-@double
-@square
-def some_op(num):
-    return num
+# @double
+# @square
+# def some_op(num):
+#     return num
 
 @square
 @double
 def some_op_2(num):
     return num
 
-print(some_op(3))
+# print(some_op(3))
 print(some_op_2(3))
